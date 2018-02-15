@@ -3,7 +3,7 @@
 //  MVVM
 //
 //  Created by boris on 06/02/2018.
-//  Copyright © 2018 Razeware. All rights reserved.
+//  Copyright © 2018 SmartSeed. All rights reserved.
 //
 
 import UIKit
